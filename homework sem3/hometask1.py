@@ -20,3 +20,4 @@ for i in A:
     if i == X:
         counter +=1
 print(f' количество числа_2 в списке = {counter}  ')
+
